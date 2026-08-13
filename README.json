@@ -1,0 +1,206 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Octotree",
+          "description": "Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-06T17:52:26Z",
+            "owner": "ovity",
+            "repo": "octotree",
+            "stars": 23228
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redux Devtools",
+          "description": "Adds debugging for Redux to Chrome Dev tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-07T11:04:59Z",
+            "owner": "zalmoxisus",
+            "repo": "redux-devtools-extension",
+            "stars": 13457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Autocomplete For Github",
+          "description": "Adds autocomplete for GitHub's search bar.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-25T14:46:18Z",
+            "owner": "algolia",
+            "repo": "github-awesome-autocomplete",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lovely Forks",
+          "description": "Shows notable forks of GitHub repositories under their names.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T14:18:58Z",
+            "owner": "musically-ut",
+            "repo": "lovely-forks",
+            "stars": 669
+          }
+        }
+      ],
+      "title": "Developer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uBlock Origin",
+          "description": "Probably the best adblocker for Firefox there is.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T17:11:49Z",
+            "owner": "gorhill",
+            "repo": "uBlock",
+            "stars": 66921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dark Reader",
+          "description": "Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:57:12Z",
+            "owner": "darkreader",
+            "repo": "darkreader",
+            "stars": 22261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitwarden",
+          "description": "Secure and free password manager for all of your devices. Source code is available here. Note: For more security conscious viewpoint use Bitwarden.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:32:44Z",
+            "owner": "bitwarden",
+            "repo": "clients",
+            "stars": 13573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tridactyl",
+          "description": "Vim like keyboard navigation like Vimperator/Pentadactyl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T12:17:08Z",
+            "owner": "tridactyl",
+            "repo": "tridactyl",
+            "stars": 6295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reddit Enhacement Suite",
+          "description": "Includes many features that enhances your Reddit browsing experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T04:23:45Z",
+            "owner": "honestbleeps",
+            "repo": "Reddit-Enhancement-Suite",
+            "stars": 4501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim Vixen",
+          "description": "Accelerate your browsing with Vim power.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-03-21T04:01:51Z",
+            "owner": "ueokande",
+            "repo": "vim-vixen",
+            "stars": 2092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Decentraleyes",
+          "description": "Improves privacy by intercepting requests to large third-party CDNs (more info).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-02-23T14:26:58Z",
+            "owner": "Synzvato",
+            "repo": "decentraleyes",
+            "stars": 1465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoScript",
+          "description": "The best security you can get in a web browser! Used for protection against XSS and other web security exploits. Source code is available here.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T22:11:59Z",
+            "owner": "hackademix",
+            "repo": "noscript",
+            "stars": 1127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tab search",
+          "description": "Keyboard-accessible tab management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-16T01:37:26Z",
+            "owner": "reblws",
+            "repo": "tab-search",
+            "stars": 163
+          }
+        }
+      ],
+      "title": "General"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:01:02.757Z",
+    "original_repository": "linsa-io/firefox-extensions",
+    "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
+    "enhanced_repository": "enhansome/enhansome-firefox-extensions",
+    "enhanced_repository_description": null,
+    "title": "Awesome Firefox extensions with stars"
+  }
+}
