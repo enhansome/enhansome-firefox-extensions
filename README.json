@@ -14,7 +14,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23230
+            "stars": 23231
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-14T15:36:42Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 66993
+            "stars": 67009
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-15T13:41:28Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22266
+            "stars": 22265
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:25:35Z",
+            "last_commit": "2026-08-15T22:54:43Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13591
+            "stars": 13597
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-05T12:17:08Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6298
+            "stars": 6301
           }
         },
         {
@@ -174,7 +174,7 @@
             "last_commit": "2026-07-25T22:11:59Z",
             "owner": "hackademix",
             "repo": "noscript",
-            "stars": 1132
+            "stars": 1133
           }
         },
         {
@@ -196,7 +196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:59:55.487Z",
+    "last_updated": "2026-08-16T15:00:19.975Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
     "enhanced_repository": "enhansome/enhansome-firefox-extensions",
