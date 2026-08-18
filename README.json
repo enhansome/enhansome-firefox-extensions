@@ -14,7 +14,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23231
+            "stars": 23232
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T15:36:42Z",
+            "last_commit": "2026-08-18T13:43:13Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67009
+            "stars": 67055
           }
         },
         {
@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T13:41:28Z",
+            "last_commit": "2026-08-18T14:30:57Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22265
+            "stars": 22273
           }
         },
         {
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T22:54:43Z",
+            "last_commit": "2026-08-18T15:13:23Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13597
+            "stars": 13614
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2026-08-05T12:17:08Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6301
+            "stars": 6302
           }
         },
         {
@@ -129,7 +129,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T04:23:45Z",
+            "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
             "stars": 4502
@@ -196,7 +196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:00:19.975Z",
+    "last_updated": "2026-08-18T15:13:38.037Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
     "enhanced_repository": "enhansome/enhansome-firefox-extensions",
