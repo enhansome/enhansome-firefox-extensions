@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19620844,
             "language": "JavaScript",
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23232
+            "stars": 23231
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44869078,
             "language": "JavaScript",
             "last_commit": "2023-11-07T11:04:59Z",
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13457
+            "stars": 13456
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28206168,
             "language": "JavaScript",
             "last_commit": "2019-02-25T14:46:18Z",
             "owner": "algolia",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37826756,
             "language": "JavaScript",
             "last_commit": "2026-06-22T14:18:58Z",
             "owner": "musically-ut",
@@ -63,7 +67,7 @@
       "title": "Developer"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T13:43:13Z",
+            "last_commit": "2026-08-19T11:56:14Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67055
+            "stars": 67076
           }
         },
         {
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T14:30:57Z",
+            "last_commit": "2026-08-19T11:02:29Z",
             "owner": "darkreader",
             "repo": "darkreader",
             "stars": 22273
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:13:23Z",
+            "last_commit": "2026-08-19T12:16:44Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13614
+            "stars": 13622
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83070966,
             "language": "TypeScript",
             "last_commit": "2026-08-05T12:17:08Z",
             "owner": "tridactyl",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2688907,
             "language": "JavaScript",
             "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 100034375,
             "language": "TypeScript",
             "last_commit": "2023-03-21T04:01:51Z",
             "owner": "ueokande",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 46812728,
             "language": "JavaScript",
             "last_commit": "2019-02-23T14:26:58Z",
             "owner": "Synzvato",
@@ -170,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139283020,
             "language": "JavaScript",
-            "last_commit": "2026-07-25T22:11:59Z",
+            "last_commit": "2026-08-19T11:35:08Z",
             "owner": "hackademix",
             "repo": "noscript",
-            "stars": 1133
+            "stars": 1134
           }
         },
         {
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95601541,
             "language": "JavaScript",
             "last_commit": "2026-03-16T01:37:26Z",
             "owner": "reblws",
@@ -196,8 +209,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:13:38.037Z",
+    "last_updated": "2026-08-19T12:30:33.315Z",
     "original_repository": "linsa-io/firefox-extensions",
+    "original_repository_id": 118159248,
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
     "enhanced_repository": "enhansome/enhansome-firefox-extensions",
     "enhanced_repository_description": null,
