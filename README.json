@@ -15,7 +15,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23231
+            "stars": 23232
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-11-07T11:04:59Z",
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13456
+            "stars": 13455
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-19T11:56:14Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67076
+            "stars": 67084
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:02:29Z",
+            "last_commit": "2026-08-19T14:30:29Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22273
+            "stars": 22274
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:16:44Z",
+            "last_commit": "2026-08-19T15:09:47Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13622
+            "stars": 13625
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-05T12:17:08Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6302
+            "stars": 6303
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2019-02-23T14:26:58Z",
             "owner": "Synzvato",
             "repo": "decentraleyes",
-            "stars": 1465
+            "stars": 1464
           }
         },
         {
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:33.315Z",
+    "last_updated": "2026-08-19T15:13:26.214Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_id": 118159248,
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
