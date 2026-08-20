@@ -15,7 +15,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23232
+            "stars": 23233
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:56:14Z",
+            "last_commit": "2026-08-20T15:06:04Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67084
+            "stars": 67155
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T14:30:29Z",
+            "last_commit": "2026-08-20T14:49:00Z",
             "owner": "darkreader",
             "repo": "darkreader",
             "stars": 22274
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:09:47Z",
+            "last_commit": "2026-08-20T15:09:50Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13625
+            "stars": 13628
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4502
+            "stars": 4503
           }
         },
         {
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:13:26.214Z",
+    "last_updated": "2026-08-20T15:17:14.935Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_id": 118159248,
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
