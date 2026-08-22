@@ -15,7 +15,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23233
+            "stars": 23234
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T15:06:04Z",
+            "last_commit": "2026-08-22T12:58:14Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67178
+            "stars": 67212
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:07:57Z",
+            "last_commit": "2026-08-21T16:26:39Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22280
+            "stars": 22283
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:13:40Z",
+            "last_commit": "2026-08-22T13:02:32Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13638
+            "stars": 13646
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 83070966,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T10:44:41Z",
+            "last_commit": "2026-08-22T09:32:12Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6304
+            "stars": 6308
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4503
+            "stars": 4504
           }
         },
         {
@@ -209,7 +209,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:15:04.739Z",
+    "last_updated": "2026-08-22T14:59:20.150Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_id": 118159248,
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
