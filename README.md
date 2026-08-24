@@ -14,8 +14,8 @@
 
 ## General
 
-* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 67,248 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-23 - Probably the best adblocker for Firefox there is.
-* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,287 | 🐛 1,450 | 🌐 TypeScript | 📅 2026-08-22 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 67,250 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-23 - Probably the best adblocker for Firefox there is.
+* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,287 | 🐛 1,449 | 🌐 TypeScript | 📅 2026-08-24 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
 * [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,655 | 🐛 1,211 | 🌐 TypeScript | 📅 2026-08-24. Note: For more security conscious viewpoint use Bitwarden.
 * [Tridactyl](https://github.com/cmcaine/tridactyl) ⭐ 6,310 | 🐛 572 | 🌐 TypeScript | 📅 2026-08-24 - Vim like keyboard navigation like Vimperator/Pentadactyl.
 * [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,507 | 🐛 686 | 🌐 JavaScript | 📅 2026-08-17 - Includes many features that enhances your Reddit browsing experience.

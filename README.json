@@ -81,7 +81,7 @@
             "last_commit": "2026-08-23T13:37:57Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67248
+            "stars": 67250
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T20:45:48Z",
+            "last_commit": "2026-08-24T14:49:07Z",
             "owner": "darkreader",
             "repo": "darkreader",
             "stars": 22287
@@ -108,7 +108,7 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:45:34Z",
+            "last_commit": "2026-08-24T15:21:03Z",
             "owner": "bitwarden",
             "repo": "clients",
             "stars": 13655
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:35.152Z",
+    "last_updated": "2026-08-24T15:23:11.725Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_id": 118159248,
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
