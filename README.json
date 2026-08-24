@@ -15,7 +15,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23235
+            "stars": 23234
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-11-07T11:04:59Z",
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13455
+            "stars": 13454
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-23T13:37:57Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67229
+            "stars": 67248
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-22T20:45:48Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22284
+            "stars": 22287
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:46:16Z",
+            "last_commit": "2026-08-24T14:45:34Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13652
+            "stars": 13655
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 83070966,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T09:32:12Z",
+            "last_commit": "2026-08-24T10:57:09Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
             "stars": 6310
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-17T18:32:44Z",
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4506
+            "stars": 4507
           }
         },
         {
@@ -206,10 +206,52 @@
         }
       ],
       "title": "General"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dat-Firefox",
+          "description": "dat:// protocol as a Firefox webextension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127942055,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T17:56:56Z",
+            "owner": "sammacbeth",
+            "repo": "dat-fox",
+            "stars": 247
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome browser extensions for GitHub",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29885833,
+            "language": "JavaScript",
+            "last_commit": "2024-08-18T20:11:31Z",
+            "owner": "stefanbuck",
+            "repo": "awesome-browser-extensions-for-github",
+            "stars": 3289
+          }
+        }
+      ],
+      "title": "Related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:01:09.875Z",
+    "last_updated": "2026-08-24T14:45:35.152Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_id": 118159248,
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
