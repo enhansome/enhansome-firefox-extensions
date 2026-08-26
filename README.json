@@ -60,7 +60,7 @@
             "last_commit": "2026-06-22T14:18:58Z",
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 669
+            "stars": 670
           }
         }
       ],
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 33263118,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T14:39:03Z",
+            "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67266
+            "stars": 67300
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T18:41:26Z",
+            "last_commit": "2026-08-26T15:44:13Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22291
+            "stars": 22293
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T15:17:40Z",
+            "last_commit": "2026-08-26T15:58:34Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13661
+            "stars": 13672
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-24T10:57:09Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6309
+            "stars": 6310
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-19T11:35:08Z",
             "owner": "hackademix",
             "repo": "noscript",
-            "stars": 1137
+            "stars": 1139
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2024-08-18T20:11:31Z",
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3290
+            "stars": 3291
           }
         }
       ],
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:27:35.674Z",
+    "last_updated": "2026-08-26T16:05:33.251Z",
     "original_repository": "linsa-io/firefox-extensions",
     "original_repository_id": 118159248,
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
