@@ -15,7 +15,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23236
+            "stars": 23238
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67300
+            "stars": 67309
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:44:13Z",
+            "last_commit": "2026-08-27T09:41:09Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22293
+            "stars": 22300
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:58:34Z",
+            "last_commit": "2026-08-27T11:29:34Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13672
+            "stars": 13678
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-24T10:57:09Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6310
+            "stars": 6313
           }
         },
         {
@@ -251,9 +251,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:05:33.251Z",
-    "original_repository": "linsa-io/firefox-extensions",
-    "original_repository_id": 118159248,
+    "last_updated": "2026-08-27T11:37:03.030Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 118159248,
+      "language": null,
+      "last_commit": "2022-05-19T11:52:41Z",
+      "owner": "linsa-io",
+      "repo": "firefox-extensions",
+      "stars": 64
+    },
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
     "enhanced_repository": "enhansome/enhansome-firefox-extensions",
     "enhanced_repository_description": null,
