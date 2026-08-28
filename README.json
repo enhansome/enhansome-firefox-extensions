@@ -15,8 +15,9 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23239
-          }
+            "stars": 23240
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2023-11-07T11:04:59Z",
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13454
-          }
+            "stars": 13453
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2019-02-25T14:46:18Z",
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1071
-          }
+            "stars": 1070
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "musically-ut",
             "repo": "lovely-forks",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         }
       ],
       "title": "Developer"
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67329
-          }
+            "stars": 67357
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -93,11 +98,12 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T15:52:03Z",
+            "last_commit": "2026-08-28T13:44:59Z",
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22300
-          }
+            "stars": 22304
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T23:58:24Z",
+            "last_commit": "2026-08-28T23:01:01Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13684
-          }
+            "stars": 13692
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 83070966,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:57:09Z",
+            "last_commit": "2026-08-28T18:41:00Z",
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6313
-          }
+            "stars": 6315
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
             "stars": 4507
-          }
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "ueokande",
             "repo": "vim-vixen",
             "stars": 2092
-          }
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "Synzvato",
             "repo": "decentraleyes",
             "stars": 1464
-          }
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "hackademix",
             "repo": "noscript",
             "stars": 1139
-          }
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "reblws",
             "repo": "tab-search",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         }
       ],
       "title": "General"
@@ -223,7 +236,8 @@
             "owner": "sammacbeth",
             "repo": "dat-fox",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         }
       ],
       "title": "Other"
@@ -243,15 +257,16 @@
             "last_commit": "2024-08-18T20:11:31Z",
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3292
-          }
+            "stars": 3293
+          },
+          "first_seen": "2026-08-28T23:42:31.534Z"
         }
       ],
       "title": "Related"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:01:02.293Z",
+    "last_updated": "2026-08-28T23:42:31.534Z",
     "original_repository_info": {
       "archived": false,
       "id": 118159248,
