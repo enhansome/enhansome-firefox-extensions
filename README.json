@@ -15,7 +15,7 @@
             "last_commit": "2024-06-06T17:52:26Z",
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23238
+            "stars": 23239
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-25T16:06:29Z",
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67309
+            "stars": 67329
           }
         },
         {
@@ -93,7 +93,7 @@
             "archived": false,
             "id": 26682105,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:41:09Z",
+            "last_commit": "2026-08-27T15:52:03Z",
             "owner": "darkreader",
             "repo": "darkreader",
             "stars": 22300
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:29:34Z",
+            "last_commit": "2026-08-27T23:58:24Z",
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13678
+            "stars": 13684
           }
         },
         {
@@ -243,7 +243,7 @@
             "last_commit": "2024-08-18T20:11:31Z",
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3291
+            "stars": 3292
           }
         }
       ],
@@ -251,7 +251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:37:03.030Z",
+    "last_updated": "2026-08-28T00:01:02.293Z",
     "original_repository_info": {
       "archived": false,
       "id": 118159248,

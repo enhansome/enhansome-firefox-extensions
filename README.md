@@ -4,7 +4,7 @@
 
 ## Developer
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,238 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,239 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,454 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) ⭐ 670 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-22 - Shows notable forks of GitHub repositories under their names.
@@ -14,9 +14,9 @@
 
 ## General
 
-* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 67,309 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-25 - Probably the best adblocker for Firefox there is.
-* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,300 | 🐛 1,450 | 🌐 TypeScript | 📅 2026-08-27 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
-* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,678 | 🐛 1,218 | 🌐 TypeScript | 📅 2026-08-27. Note: For more security conscious viewpoint use Bitwarden.
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 67,329 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-25 - Probably the best adblocker for Firefox there is.
+* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,300 | 🐛 1,451 | 🌐 TypeScript | 📅 2026-08-27 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
+* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,684 | 🐛 1,226 | 🌐 TypeScript | 📅 2026-08-27. Note: For more security conscious viewpoint use Bitwarden.
 * [Tridactyl](https://github.com/cmcaine/tridactyl) ⭐ 6,313 | 🐛 571 | 🌐 TypeScript | 📅 2026-08-24 - Vim like keyboard navigation like Vimperator/Pentadactyl.
 * [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,507 | 🐛 686 | 🌐 JavaScript | 📅 2026-08-17 - Includes many features that enhances your Reddit browsing experience.
 * [Vim Vixen](https://github.com/ueokande/vim-vixen) ⚠️ Archived - Accelerate your browsing with Vim power.
@@ -34,7 +34,7 @@
 
 ## Related
 
-* [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,291 | 🐛 26 | 🌐 JavaScript | 📅 2024-08-18.
+* [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github) ⭐ 3,292 | 🐛 26 | 🌐 JavaScript | 📅 2024-08-18.
 * [Recommended browser add-ons from PrivacyTools.io](https://www.privacytools.io/browsers/#addons).
 * [Firefox's Privacy Related "about:config" Tweaks](https://www.privacytools.io/browsers/#about_config).
 
@@ -45,4 +45,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
