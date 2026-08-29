@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub on steroids",
+            "homepage": "https://www.octotree.io/",
             "id": 19620844,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-06-06T17:52:26Z",
+            "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23240
+            "stars": 23240,
+            "topics": [
+              "browser-extension",
+              "chrome",
+              "code-files",
+              "code-review",
+              "edge",
+              "firefox",
+              "github",
+              "opera",
+              "pull-request-review",
+              "safari"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -26,12 +42,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redux DevTools extension.",
+            "homepage": null,
             "id": 44869078,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-07T11:04:59Z",
+            "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13453
+            "stars": 13453,
+            "topics": [
+              "debug",
+              "devtools",
+              "extension",
+              "javascript",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -42,12 +69,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":octocat: Add instant search capabilities to GitHub's search bar",
+            "homepage": "https://github.algolia.com",
             "id": 28206168,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-25T14:46:18Z",
+            "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1070
+            "stars": 1070,
+            "topics": [
+              "algolia",
+              "chrome",
+              "firefox",
+              "github",
+              "search",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -58,12 +97,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💚 🍴 Show notable forks of GitHub repositories under their names.",
+            "homepage": null,
             "id": 37826756,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2026-06-22T14:18:58Z",
+            "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "addon",
+              "chrome-extension",
+              "firefox-addon",
+              "firefox-extension",
+              "forks",
+              "forks-insight",
+              "github",
+              "github-forks",
+              "stars"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         }
@@ -80,12 +134,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+            "homepage": null,
             "id": 33263118,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T16:06:29Z",
+            "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67357
+            "stars": 67362,
+            "topics": [
+              "blocker",
+              "browser-extension",
+              "chromium",
+              "firefox",
+              "javascript",
+              "ublock",
+              "ublock-origin"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -96,12 +163,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dark Reader Chrome and Firefox extension",
+            "homepage": "https://darkreader.org/",
             "id": 26682105,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:44:59Z",
+            "open_issues": 1451,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22304
+            "stars": 22305,
+            "topics": [
+              "accessibility",
+              "chrome-extension",
+              "dark-mode",
+              "dark-theme",
+              "darkmode",
+              "eye-care",
+              "firefox-addon",
+              "night-mode",
+              "nightmode"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -112,12 +194,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+            "homepage": "https://bitwarden.com",
             "id": 53538899,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:01:01Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:15:58Z",
+            "open_issues": 1220,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13692
+            "stars": 13692,
+            "topics": [
+              "angular",
+              "bitwarden",
+              "browser-extension",
+              "chrome",
+              "cli",
+              "desktop",
+              "electron",
+              "firefox",
+              "javascript",
+              "nodejs",
+              "safari",
+              "typescript",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -128,12 +229,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.",
+            "homepage": "https://tridactyl.xyz",
             "id": 83070966,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:41:00Z",
+            "open_issues": 571,
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6315
+            "stars": 6315,
+            "topics": [
+              "firefox",
+              "hacktoberfest",
+              "vim",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -144,12 +255,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reddit Enhancement Suite",
+            "homepage": "http://redditenhancementsuite.com",
             "id": 2688907,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-17T18:32:44Z",
+            "open_issues": 686,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4507
+            "stars": 4507,
+            "topics": [
+              "chrome-extension",
+              "edge-extension",
+              "firefox-addon",
+              "firefox-extension",
+              "hacktoberfest",
+              "reddit"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -160,12 +283,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Accelerates your web browsing with Vim power!!",
+            "homepage": "https://ueokande.github.io/vim-vixen/",
             "id": 100034375,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-21T04:01:51Z",
+            "open_issues": 267,
             "owner": "ueokande",
             "repo": "vim-vixen",
-            "stars": 2092
+            "stars": 2092,
+            "topics": [
+              "firefox",
+              "javascript",
+              "vim",
+              "webextension"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -176,12 +309,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository has a new home: https://git.synz.io/Synzvato/decentraleyes",
+            "homepage": null,
             "id": 46812728,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2019-02-23T14:26:58Z",
+            "open_issues": 50,
             "owner": "Synzvato",
             "repo": "decentraleyes",
-            "stars": 1464
+            "stars": 1464,
+            "topics": [
+              "browser",
+              "browser-extension",
+              "cdn",
+              "privacy",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -192,12 +336,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The popular NoScript Security Suite browser extension.",
+            "homepage": "https://noscript.net/",
             "id": 139283020,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T11:35:08Z",
+            "open_issues": 334,
             "owner": "hackademix",
             "repo": "noscript",
-            "stars": 1139
+            "stars": 1139,
+            "topics": [
+              "meltdown",
+              "noscript",
+              "spectre",
+              "trust",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         },
@@ -208,12 +363,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebExtension for keyboard-accessible tab management",
+            "homepage": "https://addons.mozilla.org/en-US/firefox/addon/tab_search/",
             "id": 95601541,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-16T01:37:26Z",
+            "open_issues": 51,
             "owner": "reblws",
             "repo": "tab-search",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "addon",
+              "close-tabs",
+              "javascript",
+              "tab-management",
+              "tabs",
+              "webextension",
+              "webextensions"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         }
@@ -230,12 +398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dat:// protocol as a Firefox webextension",
+            "homepage": null,
             "id": 127942055,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T17:56:56Z",
+            "open_issues": 42,
             "owner": "sammacbeth",
             "repo": "dat-fox",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         }
@@ -252,12 +425,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of awesome browser extensions for GitHub.",
+            "homepage": "https://stefanbuck.com/awesome-browser-extensions-for-github",
             "id": 29885833,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-18T20:11:31Z",
+            "open_issues": 26,
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3293
+            "stars": 3293,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "browser-extension",
+              "chrome-extension",
+              "github",
+              "github-extension",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T23:42:31.534Z"
         }
@@ -266,15 +452,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:42:31.534Z",
+    "last_updated": "2026-08-29T05:02:02.266Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Firefox Extensions",
+      "homepage": null,
       "id": 118159248,
       "language": null,
+      "license": null,
       "last_commit": "2022-05-19T11:52:41Z",
+      "open_issues": 2,
       "owner": "linsa-io",
       "repo": "firefox-extensions",
-      "stars": 64
+      "stars": 64,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "firefox",
+        "firefox-addon",
+        "firefox-extension",
+        "firefox-webextension"
+      ]
     },
     "original_repository_sha": "d73f5df791bae45f953794e663aa9817a7adf957",
     "enhanced_repository": "enhansome/enhansome-firefox-extensions",
