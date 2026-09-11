@@ -5,20 +5,20 @@
 ## Developer
 
 * [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,246 | 🐛 33 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
-* [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,449 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
+* [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,447 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
-* [Lovely Forks](https://github.com/musically-ut/lovely-forks) ⭐ 672 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-22 - Shows notable forks of GitHub repositories under their names.
+* [Lovely Forks](https://github.com/musically-ut/lovely-forks) ⭐ 673 | 🐛 16 | 🌐 JavaScript | 📅 2026-06-22 - Shows notable forks of GitHub repositories under their names.
 * [OctoLinker](https://octolinker.github.io/) - Lets you navigate through projects on GitHub by making references in code clickable.
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Adds React debugging tools to Chrome Dev tools.
 * [Sourcegraph for GitHub](https://addons.mozilla.org/en-US/firefox/addon/sourcegraph-addon-for-github/) - Allows you to quicky open any GitHub repository to view in a more powerful [Sourcegraph editor](https://about.sourcegraph.com/).
 
 ## General
 
-* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 67,722 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-10 - Probably the best adblocker for Firefox there is.
-* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,345 | 🐛 1,449 | 🌐 TypeScript | 📅 2026-09-10 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
-* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,765 | 🐛 1,311 | 🌐 TypeScript | 📅 2026-09-10. Note: For more security conscious viewpoint use Bitwarden.
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 67,755 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-11 - Probably the best adblocker for Firefox there is.
+* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,346 | 🐛 1,450 | 🌐 TypeScript | 📅 2026-09-11 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
+* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,767 | 🐛 1,315 | 🌐 TypeScript | 📅 2026-09-11. Note: For more security conscious viewpoint use Bitwarden.
 * [Tridactyl](https://github.com/cmcaine/tridactyl) ⭐ 6,333 | 🐛 572 | 🌐 TypeScript | 📅 2026-09-08 - Vim like keyboard navigation like Vimperator/Pentadactyl.
-* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,513 | 🐛 683 | 🌐 JavaScript | 📅 2026-09-04 - Includes many features that enhances your Reddit browsing experience.
+* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,515 | 🐛 683 | 🌐 JavaScript | 📅 2026-09-04 - Includes many features that enhances your Reddit browsing experience.
 * [Vim Vixen](https://github.com/ueokande/vim-vixen) ⚠️ Archived - Accelerate your browsing with Vim power.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
 * [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Used for protection against XSS and other web security exploits. Source code is available [here](https://github.com/hackademix/noscript/) ⭐ 1,145 | 🐛 339 | 🌐 JavaScript | 📅 2026-08-19.
@@ -45,4 +45,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
