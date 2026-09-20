@@ -78,7 +78,7 @@
             "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "algolia",
               "chrome",
@@ -106,7 +106,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "addon",
               "chrome-extension",
@@ -139,11 +139,11 @@
             "id": 33263118,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T14:03:34Z",
+            "last_commit": "2026-09-20T15:59:05Z",
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 67968,
+            "stars": 67996,
             "topics": [
               "blocker",
               "browser-extension",
@@ -169,10 +169,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-17T09:30:40Z",
-            "open_issues": 1454,
+            "open_issues": 1456,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22379,
+            "stars": 22381,
             "topics": [
               "accessibility",
               "chrome-extension",
@@ -199,11 +199,11 @@
             "id": 53538899,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-19T05:43:27Z",
-            "open_issues": 1268,
+            "last_commit": "2026-09-20T16:38:28Z",
+            "open_issues": 1272,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13811,
+            "stars": 13813,
             "topics": [
               "angular",
               "bitwarden",
@@ -238,7 +238,7 @@
             "open_issues": 581,
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6343,
+            "stars": 6344,
             "topics": [
               "firefox",
               "hacktoberfest",
@@ -434,7 +434,7 @@
             "open_issues": 26,
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3302,
+            "stars": 3303,
             "topics": [
               "awesome",
               "awesome-list",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T17:27:31.921Z",
+    "last_updated": "2026-09-20T17:40:45.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Firefox Extensions",
