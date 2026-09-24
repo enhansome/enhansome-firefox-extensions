@@ -19,7 +19,7 @@
             "open_issues": 33,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23256,
+            "stars": 23257,
             "topics": [
               "browser-extension",
               "chrome",
@@ -51,7 +51,7 @@
             "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13445,
+            "stars": 13446,
             "topics": [
               "debug",
               "devtools",
@@ -143,7 +143,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68073,
+            "stars": 68092,
             "topics": [
               "blocker",
               "browser-extension",
@@ -168,11 +168,11 @@
             "id": 26682105,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T18:39:02Z",
-            "open_issues": 1451,
+            "last_commit": "2026-09-24T15:51:50Z",
+            "open_issues": 1456,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22392,
+            "stars": 22395,
             "topics": [
               "accessibility",
               "chrome-extension",
@@ -199,11 +199,11 @@
             "id": 53538899,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T18:26:26Z",
-            "open_issues": 1310,
+            "last_commit": "2026-09-24T18:39:53Z",
+            "open_issues": 1317,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13826,
+            "stars": 13837,
             "topics": [
               "angular",
               "bitwarden",
@@ -234,8 +234,8 @@
             "id": 83070966,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T07:47:07Z",
-            "open_issues": 574,
+            "last_commit": "2026-09-23T21:34:42Z",
+            "open_issues": 575,
             "owner": "tridactyl",
             "repo": "tridactyl",
             "stars": 6352,
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:39:17.539Z",
+    "last_updated": "2026-09-24T18:41:05.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Firefox Extensions",
