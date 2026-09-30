@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23263,
+            "stars": 23261,
             "topics": [
               "browser-extension",
               "chrome",
@@ -143,7 +143,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68206,
+            "stars": 68239,
             "topics": [
               "blocker",
               "browser-extension",
@@ -168,11 +168,11 @@
             "id": 26682105,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:20:40Z",
-            "open_issues": 1453,
+            "last_commit": "2026-09-30T12:40:24Z",
+            "open_issues": 1452,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22424,
+            "stars": 22428,
             "topics": [
               "accessibility",
               "chrome-extension",
@@ -199,11 +199,11 @@
             "id": 53538899,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T19:19:15Z",
-            "open_issues": 1325,
+            "last_commit": "2026-09-30T19:38:59Z",
+            "open_issues": 1330,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13869,
+            "stars": 13876,
             "topics": [
               "angular",
               "bitwarden",
@@ -235,10 +235,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T17:59:10Z",
-            "open_issues": 578,
+            "open_issues": 577,
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6362,
+            "stars": 6360,
             "topics": [
               "firefox",
               "hacktoberfest",
@@ -342,7 +342,7 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-28T16:10:22Z",
-            "open_issues": 338,
+            "open_issues": 340,
             "owner": "hackademix",
             "repo": "noscript",
             "stars": 1156,
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:39:41.588Z",
+    "last_updated": "2026-09-30T19:39:02.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Firefox Extensions",
