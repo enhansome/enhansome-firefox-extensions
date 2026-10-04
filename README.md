@@ -4,7 +4,7 @@
 
 ## Developer
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,272 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,275 | 🐛 0 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
 * [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,441 | 🐛 266 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) ⭐ 674 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-01 - Shows notable forks of GitHub repositories under their names.
@@ -14,14 +14,14 @@
 
 ## General
 
-* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 68,308 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-03 - Probably the best adblocker for Firefox there is.
-* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,436 | 🐛 1,459 | 🌐 TypeScript | 📅 2026-10-02 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
-* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,897 | 🐛 1,334 | 🌐 TypeScript | 📅 2026-10-03. Note: For more security conscious viewpoint use Bitwarden.
-* [Tridactyl](https://github.com/cmcaine/tridactyl) ⭐ 6,363 | 🐛 578 | 🌐 TypeScript | 📅 2026-09-29 - Vim like keyboard navigation like Vimperator/Pentadactyl.
-* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,525 | 🐛 683 | 🌐 JavaScript | 📅 2026-09-04 - Includes many features that enhances your Reddit browsing experience.
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 68,331 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-04 - Probably the best adblocker for Firefox there is.
+* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,438 | 🐛 1,462 | 🌐 TypeScript | 📅 2026-10-03 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
+* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,903 | 🐛 1,337 | 🌐 TypeScript | 📅 2026-10-04. Note: For more security conscious viewpoint use Bitwarden.
+* [Tridactyl](https://github.com/cmcaine/tridactyl) ⭐ 6,364 | 🐛 578 | 🌐 TypeScript | 📅 2026-09-29 - Vim like keyboard navigation like Vimperator/Pentadactyl.
+* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,526 | 🐛 685 | 🌐 JavaScript | 📅 2026-10-04 - Includes many features that enhances your Reddit browsing experience.
 * [Vim Vixen](https://github.com/ueokande/vim-vixen) ⚠️ Archived - Accelerate your browsing with Vim power.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
-* [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Used for protection against XSS and other web security exploits. Source code is available [here](https://github.com/hackademix/noscript/) ⭐ 1,156 | 🐛 342 | 🌐 JavaScript | 📅 2026-10-01.
+* [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Used for protection against XSS and other web security exploits. Source code is available [here](https://github.com/hackademix/noscript/) ⭐ 1,157 | 🐛 343 | 🌐 JavaScript | 📅 2026-10-04.
 * [Tab search](https://github.com/reblws/tab-search) ⭐ 166 | 🐛 51 | 🌐 JavaScript | 📅 2026-03-16 - Keyboard-accessible tab management.
 * [1Password](https://agilebits.com/onepassword/extensions) - Extension for [1Password app](https://1password.com/). If you want a UI friendly password manager, use it. Otherwise check Bitwarden.
 * [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) - Automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet. ClearURL's source code is available [here](https://gitlab.com/KevinRoebert/ClearUrls).
@@ -45,4 +45,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
