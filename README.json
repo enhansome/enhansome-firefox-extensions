@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23275,
+            "stars": 23278,
             "topics": [
               "browser-extension",
               "chrome",
@@ -51,7 +51,7 @@
             "open_issues": 266,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13442,
+            "stars": 13441,
             "topics": [
               "debug",
               "devtools",
@@ -106,7 +106,7 @@
             "open_issues": 18,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 674,
+            "stars": 673,
             "topics": [
               "addon",
               "chrome-extension",
@@ -143,7 +143,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 68352,
+            "stars": 68358,
             "topics": [
               "blocker",
               "browser-extension",
@@ -172,7 +172,7 @@
             "open_issues": 1460,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22438,
+            "stars": 22443,
             "topics": [
               "accessibility",
               "chrome-extension",
@@ -199,11 +199,11 @@
             "id": 53538899,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T21:39:10Z",
-            "open_issues": 1328,
+            "last_commit": "2026-10-06T10:22:39Z",
+            "open_issues": 1330,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 13908,
+            "stars": 13912,
             "topics": [
               "angular",
               "bitwarden",
@@ -264,7 +264,7 @@
             "open_issues": 685,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
-            "stars": 4526,
+            "stars": 4525,
             "topics": [
               "chrome-extension",
               "edge-extension",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:39:57.630Z",
+    "last_updated": "2026-10-06T10:24:14.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Firefox Extensions",
