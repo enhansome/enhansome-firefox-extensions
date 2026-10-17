@@ -4,8 +4,8 @@
 
 ## Developer
 
-* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,282 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
-* [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,437 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
+* [Octotree](https://github.com/buunguyen/octotree) ⭐ 23,283 | 🐛 1 | 🌐 JavaScript | 📅 2024-06-06 - Gives a file tree view on the side of each repository that you visit that you can use to navigate over the codebase.
+* [Redux Devtools](https://github.com/zalmoxisus/redux-devtools-extension) ⭐ 13,436 | 🐛 265 | 🌐 JavaScript | 📅 2023-11-07 - Adds debugging for Redux to Chrome Dev tools.
 * [Awesome Autocomplete For Github](https://github.com/algolia/github-awesome-autocomplete) ⚠️ Archived - Adds autocomplete for GitHub's search bar.
 * [Lovely Forks](https://github.com/musically-ut/lovely-forks) ⭐ 674 | 🐛 16 | 🌐 JavaScript | 📅 2026-10-06 - Shows notable forks of GitHub repositories under their names.
 * [OctoLinker](https://octolinker.github.io/) - Lets you navigate through projects on GitHub by making references in code clickable.
@@ -14,11 +14,11 @@
 
 ## General
 
-* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 68,602 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-15 - Probably the best adblocker for Firefox there is.
-* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,476 | 🐛 1,459 | 🌐 TypeScript | 📅 2026-10-16 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
-* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,994 | 🐛 1,339 | 🌐 TypeScript | 📅 2026-10-16. Note: For more security conscious viewpoint use Bitwarden.
-* [Tridactyl](https://github.com/cmcaine/tridactyl) ⭐ 6,375 | 🐛 584 | 🌐 TypeScript | 📅 2026-10-07 - Vim like keyboard navigation like Vimperator/Pentadactyl.
-* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,524 | 🐛 687 | 🌐 JavaScript | 📅 2026-10-16 - Includes many features that enhances your Reddit browsing experience.
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin) ⭐ 68,625 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-17 - Probably the best adblocker for Firefox there is.
+* [Dark Reader](https://github.com/darkreader/darkreader) ⭐ 22,477 | 🐛 1,462 | 🌐 TypeScript | 📅 2026-10-17 - Inverts brightness of web pages and aims to reduce eyestrain while browsing the web.
+* [Bitwarden](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/) - Secure and free password manager for all of your devices. Source code is available [here](https://github.com/bitwarden/browser/) ⭐ 13,998 | 🐛 1,355 | 🌐 TypeScript | 📅 2026-10-17. Note: For more security conscious viewpoint use Bitwarden.
+* [Tridactyl](https://github.com/cmcaine/tridactyl) ⭐ 6,375 | 🐛 580 | 🌐 TypeScript | 📅 2026-10-17 - Vim like keyboard navigation like Vimperator/Pentadactyl.
+* [Reddit Enhacement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) ⭐ 4,525 | 🐛 687 | 🌐 JavaScript | 📅 2026-10-16 - Includes many features that enhances your Reddit browsing experience.
 * [Vim Vixen](https://github.com/ueokande/vim-vixen) ⚠️ Archived - Accelerate your browsing with Vim power.
 * [Decentraleyes](https://github.com/Synzvato/decentraleyes) ⚠️ Archived - Improves privacy by intercepting requests to large third-party CDNs ([more info](https://github.com/Synzvato/decentraleyes/wiki/Simple-Introduction) ⚠️ Archived).
 * [NoScript](https://addons.mozilla.org/en-US/firefox/addon/noscript/) - The best security you can get in a web browser! Used for protection against XSS and other web security exploits. Source code is available [here](https://github.com/hackademix/noscript/) ⭐ 1,162 | 🐛 347 | 🌐 JavaScript | 📅 2026-10-05.
@@ -45,4 +45,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
