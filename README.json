@@ -51,7 +51,7 @@
             "open_issues": 265,
             "owner": "zalmoxisus",
             "repo": "redux-devtools-extension",
-            "stars": 13431,
+            "stars": 13430,
             "topics": [
               "debug",
               "devtools",
@@ -78,7 +78,7 @@
             "open_issues": 18,
             "owner": "algolia",
             "repo": "github-awesome-autocomplete",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "algolia",
               "chrome",
@@ -106,7 +106,7 @@
             "open_issues": 16,
             "owner": "musically-ut",
             "repo": "lovely-forks",
-            "stars": 678,
+            "stars": 677,
             "topics": [
               "addon",
               "chrome-extension",
@@ -143,7 +143,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 69234,
+            "stars": 69263,
             "topics": [
               "blocker",
               "browser-extension",
@@ -168,11 +168,11 @@
             "id": 26682105,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:59:40Z",
-            "open_issues": 1463,
+            "last_commit": "2026-11-11T14:23:17Z",
+            "open_issues": 1428,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22580,
+            "stars": 22581,
             "topics": [
               "accessibility",
               "chrome-extension",
@@ -199,11 +199,11 @@
             "id": 53538899,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T20:52:41Z",
-            "open_issues": 1460,
+            "last_commit": "2026-11-11T21:28:56Z",
+            "open_issues": 1468,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 14202,
+            "stars": 14212,
             "topics": [
               "angular",
               "bitwarden",
@@ -238,7 +238,7 @@
             "open_issues": 580,
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6395,
+            "stars": 6394,
             "topics": [
               "firefox",
               "hacktoberfest",
@@ -260,7 +260,7 @@
             "id": 2688907,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T10:58:04Z",
+            "last_commit": "2026-11-11T18:27:55Z",
             "open_issues": 661,
             "owner": "honestbleeps",
             "repo": "Reddit-Enhancement-Suite",
@@ -315,10 +315,10 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2019-02-23T14:26:58Z",
-            "open_issues": 50,
+            "open_issues": 44,
             "owner": "Synzvato",
             "repo": "decentraleyes",
-            "stars": 1461,
+            "stars": 1460,
             "topics": [
               "browser",
               "browser-extension",
@@ -345,7 +345,7 @@
             "open_issues": 349,
             "owner": "hackademix",
             "repo": "noscript",
-            "stars": 1166,
+            "stars": 1167,
             "topics": [
               "meltdown",
               "noscript",
@@ -372,7 +372,7 @@
             "open_issues": 48,
             "owner": "reblws",
             "repo": "tab-search",
-            "stars": 167,
+            "stars": 166,
             "topics": [
               "addon",
               "close-tabs",
@@ -434,7 +434,7 @@
             "open_issues": 30,
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3325,
+            "stars": 3328,
             "topics": [
               "awesome",
               "awesome-list",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:01:22.626Z",
+    "last_updated": "2026-11-11T21:33:59.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Firefox Extensions",
