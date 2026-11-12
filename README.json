@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "ovity",
             "repo": "octotree",
-            "stars": 23312,
+            "stars": 23311,
             "topics": [
               "browser-extension",
               "chrome",
@@ -143,7 +143,7 @@
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 69263,
+            "stars": 69286,
             "topics": [
               "blocker",
               "browser-extension",
@@ -168,11 +168,11 @@
             "id": 26682105,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T14:23:17Z",
-            "open_issues": 1428,
+            "last_commit": "2026-11-12T17:42:58Z",
+            "open_issues": 1429,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22581,
+            "stars": 22586,
             "topics": [
               "accessibility",
               "chrome-extension",
@@ -199,11 +199,11 @@
             "id": 53538899,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T21:28:56Z",
-            "open_issues": 1468,
+            "last_commit": "2026-11-12T21:20:48Z",
+            "open_issues": 1488,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 14212,
+            "stars": 14219,
             "topics": [
               "angular",
               "bitwarden",
@@ -238,7 +238,7 @@
             "open_issues": 580,
             "owner": "tridactyl",
             "repo": "tridactyl",
-            "stars": 6394,
+            "stars": 6397,
             "topics": [
               "firefox",
               "hacktoberfest",
@@ -341,11 +341,11 @@
             "id": 139283020,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T16:53:46Z",
-            "open_issues": 349,
+            "last_commit": "2026-11-12T12:22:37Z",
+            "open_issues": 346,
             "owner": "hackademix",
             "repo": "noscript",
-            "stars": 1167,
+            "stars": 1168,
             "topics": [
               "meltdown",
               "noscript",
@@ -434,7 +434,7 @@
             "open_issues": 30,
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3328,
+            "stars": 3330,
             "topics": [
               "awesome",
               "awesome-list",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:33:59.603Z",
+    "last_updated": "2026-11-12T21:36:07.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Firefox Extensions",
