@@ -139,11 +139,11 @@
             "id": 33263118,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T13:29:31Z",
+            "last_commit": "2026-11-22T20:43:25Z",
             "open_issues": 15,
             "owner": "gorhill",
             "repo": "uBlock",
-            "stars": 69547,
+            "stars": 69578,
             "topics": [
               "blocker",
               "browser-extension",
@@ -169,10 +169,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-21T18:25:43Z",
-            "open_issues": 1467,
+            "open_issues": 1469,
             "owner": "darkreader",
             "repo": "darkreader",
-            "stars": 22618,
+            "stars": 22620,
             "topics": [
               "accessibility",
               "chrome-extension",
@@ -199,11 +199,11 @@
             "id": 53538899,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T10:59:00Z",
-            "open_issues": 1519,
+            "last_commit": "2026-11-22T13:04:14Z",
+            "open_issues": 1521,
             "owner": "bitwarden",
             "repo": "clients",
-            "stars": 14296,
+            "stars": 14305,
             "topics": [
               "angular",
               "bitwarden",
@@ -341,7 +341,7 @@
             "id": 139283020,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T19:58:55Z",
+            "last_commit": "2026-11-22T14:47:43Z",
             "open_issues": 346,
             "owner": "hackademix",
             "repo": "noscript",
@@ -434,7 +434,7 @@
             "open_issues": 32,
             "owner": "stefanbuck",
             "repo": "awesome-browser-extensions-for-github",
-            "stars": 3331,
+            "stars": 3332,
             "topics": [
               "awesome",
               "awesome-list",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:40:11.573Z",
+    "last_updated": "2026-11-22T20:50:05.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Firefox Extensions",
